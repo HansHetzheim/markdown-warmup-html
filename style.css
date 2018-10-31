@@ -5,10 +5,13 @@ body {
 	background-size: cover;
 }
 
-h1, h3 {
+h1{
 	color: #FFFFFF;
 	text-align: center;
 
+}
+h3{	color: #FFFFFF;
+	background-color: blue;
 }
 
 li {
