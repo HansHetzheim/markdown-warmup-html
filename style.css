@@ -5,17 +5,14 @@ body {
 	background-size: cover;
 }
 
-h1{
+h1,h3{
 	color: #FFFFFF;
 	text-align: center;
-
-}
-h3{	color: #FFFFFF;
-	background-color: blue;
 }
 
 li {
 	color: #FFFFFF;
 	text-align: center;
 	list-style-type: none;
+	
 }
